@@ -1,2 +1,3 @@
 # Flask_tutorial
-flask 1st try
+
+https://my-1s-tflask-tutorial.herokuapp.com/posts
